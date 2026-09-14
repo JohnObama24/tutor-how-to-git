@@ -17,7 +17,7 @@ int main()
     int uang, kembalian;
     string namaMinuman;
 
-    cout << "=== VENDING MACHINE OTOMAT ===" << endl;
+    cout << "=== VENDING MACHINE OTOMATIS ===" << endl;
     cout << "Pilihan Minuman:" << endl;
     cout << "1. Air Mineral (Rp 4000)" << endl;
     cout << "2. Teh Botol (Rp 6000)" << endl;
